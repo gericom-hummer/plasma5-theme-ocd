@@ -1,0 +1,22 @@
+[ContrastEffect]
+contrast=0.2
+enabled=true
+# intensity is disabled, in order to auto adjust to the chosen theme color
+intensity=1.9
+saturation=1.9
+
+[Desktop Entry]
+Comment=KDE4 Air Reloaded
+Comment[x-test]=xxA breath of mountain fresh airxx
+Name=OCD
+Name[x-test]=xxOCDxx
+X-KDE-PluginInfo-Author=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=ocd
+X-KDE-PluginInfo-Version=20160408.55
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0

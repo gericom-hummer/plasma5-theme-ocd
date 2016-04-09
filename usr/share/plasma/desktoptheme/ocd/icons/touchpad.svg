@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   id="svg3342"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="touchpad.svg">
+  <defs
+     id="defs3344" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#323232"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="26.838714"
+     inkscape:cy="9.8282"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg3342"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3340" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3347">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1,27)"
+     id="touchpad_enabled">
+    <rect
+       style="opacity:0.125;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3393"
+       width="24"
+       height="24"
+       x="0"
+       y="-28" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4138"
+       d="m 3,-24 c -0.554,0 -1,0.446 -1,1 l 0,9 20,0 0,-9 c 0,-0.554 -0.446,-1 -1,-1 l -18,0 z m -1,12 0,3 c 0,0.554 0.446,1 1,1 l 8,0 0,-4 -9,0 z m 11,0 0,4 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 -9,0 z"
+       style="opacity:0.375;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:0.875;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 3,-24 c -0.554,0 -1,0.446 -1,1 l 0,9 20,0 0,-9 c 0,-0.554 -0.446,-1 -1,-1 l -18,0 z m -1,12 0,3 c 0,0.554 0.446,1 1,1 l 8,0 0,-4 -9,0 z m 11,0 0,4 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 -9,0 z"
+       id="path4226"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(3,27)"
+     id="touchpad_disabled"
+     style="opacity:0.375">
+    <rect
+       y="-28"
+       x="23"
+       height="24"
+       width="24"
+       id="rect4208"
+       style="opacity:0.125;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 26,-24 c -0.554,0 -1,0.446 -1,1 l 0,9 20,0 0,-9 c 0,-0.554 -0.446,-1 -1,-1 l -18,0 z m -1,12 0,3 c 0,0.554 0.446,1 1,1 l 8,0 0,-4 -9,0 z m 11,0 0,4 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 -9,0 z"
+       id="path4142" />
+    <path
+       id="path4224"
+       d="m 26,-24 c -0.554,0 -1,0.446 -1,1 l 0,9 20,0 0,-9 c 0,-0.554 -0.446,-1 -1,-1 l -18,0 z m -1,12 0,3 c 0,0.554 0.446,1 1,1 l 8,0 0,-4 -9,0 z m 11,0 0,4 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 -9,0 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

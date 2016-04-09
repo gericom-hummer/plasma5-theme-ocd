@@ -1,0 +1,21 @@
+[ContrastEffect]
+contrast=0.2
+enabled=true
+intensity=0.4
+saturation=1.7
+
+[Desktop Entry]
+Comment=A breath of fresh air
+Comment[x-test]=xxA breath of fresh airxx
+Name=OCD
+Name[x-test]=xxOCDxx
+X-KDE-PluginInfo-Author=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=default
+X-KDE-PluginInfo-Version=20160405
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
